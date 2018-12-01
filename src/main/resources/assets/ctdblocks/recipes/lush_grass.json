@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ctdblocks:lush_grass",
+    "pattern": [
+        "SSS",
+        "SWS",
+		"SSS"
+    ],
+    "key": {
+		"S": [{"type": "forge:ore_dict", "ore": "grass"}],
+        "W": { "item": "minecraft:water_bucket" }
+    },
+    "result": {
+        "item": "ctdblocks:lush_grass",
+		"count": 8
+    }
+}
