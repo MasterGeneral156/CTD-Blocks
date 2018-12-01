@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/industrial_lamp",
+    "textures": {
+        "inventory": "ctdblocks:blocks/industrial_lamp"
+    }
+}
