@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ctdblocks:blocks/green_tile"
+    }
+}

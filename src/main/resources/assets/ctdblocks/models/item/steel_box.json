@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/steel_box",
+    "textures": {
+        "inventory": "ctdblocks:blocks/steel_box"
+    }
+}

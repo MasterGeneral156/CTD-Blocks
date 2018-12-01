@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/black_cobble",
+    "textures": {
+        "inventory": "ctdblocks:blocks/black_cobble"
+    }
+}

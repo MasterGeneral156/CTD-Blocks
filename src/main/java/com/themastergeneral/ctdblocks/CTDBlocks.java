@@ -31,6 +31,9 @@ public class CTDBlocks
     @Instance
     public static CTDBlocks instance = new CTDBlocks();
     
+    // Creative Tab
+    public static final BlocksTab creativeTab = new BlocksTab();
+    
     @SidedProxy(clientSide = "com.themastergeneral.ctdblocks.proxy.Client", serverSide = "com.themastergeneral.ctdblocks.proxy.Server")
     public static Common proxy;
     

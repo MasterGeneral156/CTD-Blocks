@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/rustic_hatch",
+    "textures": {
+        "inventory": "ctdblocks:blocks/rustic_hatch"
+    }
+}
