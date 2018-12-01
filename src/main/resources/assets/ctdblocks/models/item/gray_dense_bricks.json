@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/gray_dense_bricks",
+    "textures": {
+        "inventory": "ctdblocks:blocks/gray_dense_bricks"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/metal_siding",
+    "textures": {
+        "inventory": "ctdblocks:blocks/metal_siding"
+    }
+}

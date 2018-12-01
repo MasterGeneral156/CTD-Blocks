@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/wood_flooring",
+    "textures": {
+        "inventory": "ctdblocks:blocks/wood_flooring"
+    }
+}

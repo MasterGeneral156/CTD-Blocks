@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/carpet",
+    "textures": {
+        "inventory": "ctdblocks:blocks/carpet"
+    }
+}

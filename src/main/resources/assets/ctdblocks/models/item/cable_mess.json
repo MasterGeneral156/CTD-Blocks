@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/cable_mess",
+    "textures": {
+        "inventory": "ctdblocks:blocks/cable_mess"
+    }
+}

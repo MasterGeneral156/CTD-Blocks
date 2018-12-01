@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/blue_tile",
+    "textures": {
+        "inventory": "ctdblocks:blocks/blue_tile"
+    }
+}

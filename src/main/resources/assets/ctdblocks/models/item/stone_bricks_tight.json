@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/stone_bricks_tight",
+    "textures": {
+        "inventory": "ctdblocks:blocks/stone_bricks_tight"
+    }
+}

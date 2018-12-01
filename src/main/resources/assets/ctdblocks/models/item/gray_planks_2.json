@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/gray_planks_2",
+    "textures": {
+        "inventory": "ctdblocks:blocks/gray_planks_2"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/dense_ice",
+    "textures": {
+        "inventory": "ctdblocks:blocks/dense_ice"
+    }
+}

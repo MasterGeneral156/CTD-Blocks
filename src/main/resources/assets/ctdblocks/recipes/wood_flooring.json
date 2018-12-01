@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ctdblocks:wood_flooring",
+    "pattern": [
+        "SPS",
+        "P S",
+		"SPS"
+    ],
+    "key": {
+		"S": [{"type": "forge:ore_dict", "ore": "slabWood"}],
+        "P": [{"type": "forge:ore_dict", "ore": "plankWood"}]
+    },
+    "result": {
+        "item": "ctdblocks:wood_flooring",
+		"count": 16
+    }
+}

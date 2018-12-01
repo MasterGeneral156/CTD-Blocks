@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/lush_grass",
+    "textures": {
+        "inventory": "ctdblocks:blocks/lush_grass"
+    }
+}

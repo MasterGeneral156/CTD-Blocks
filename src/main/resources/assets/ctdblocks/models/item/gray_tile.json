@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/gray_tile",
+    "textures": {
+        "inventory": "ctdblocks:blocks/gray_tile"
+    }
+}

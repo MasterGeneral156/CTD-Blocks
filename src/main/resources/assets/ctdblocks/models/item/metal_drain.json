@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/metal_drain",
+    "textures": {
+        "inventory": "ctdblocks:blocks/metal_drain"
+    }
+}

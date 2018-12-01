@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/snow_drift",
+    "textures": {
+        "inventory": "ctdblocks:blocks/snow_drift"
+    }
+}

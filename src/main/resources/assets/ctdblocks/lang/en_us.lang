@@ -1,0 +1,25 @@
+itemGroup.ctdblocks=CTD Blocks
+
+tile.industrial_lamp.name=Industrial Lamp
+tile.black_cobble.name=Black Cobblestones
+tile.rustic_hatch.name=Rustic Hatch
+tile.steel_box.name=Steel Box
+tile.cable_mess.name=Cable Mess
+tile.carpet.name=Carpet
+tile.dense_ice.name=Dense Ice
+tile.gray_dense_bricks.name=Gray Dense Bricks
+tile.gray_planks.name=Vertical Gray Planks
+tile.gray_planks_2.name=Horitzonal Gray Planks
+tile.blue_tile.name=Blue Tiles
+tile.gray_tile.name=Gray Tiles
+tile.lush_grass.name=Lush Grass
+tile.metal_drain.name=Gully
+tile.red_planks.name=Red Planks
+tile.red_tile.name=Red Tiles
+tile.snow_drift.name=Snow Drift
+tile.stone_bricks_grey.name=Gray Stone Bricks
+tile.stone_bricks_tight.name=Tight Stone Bricks
+tile.white_brick.name=White Bricks
+tile.white_tile.name=White Tiles
+tile.wood_flooring.name=Wood Flooring
+tile.metal_siding.name=Metal Siding

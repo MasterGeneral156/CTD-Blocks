@@ -1,0 +1,6 @@
+{
+    "parent": "ctdblocks:blocks/red_planks",
+    "textures": {
+        "inventory": "ctdblocks:blocks/red_planks"
+    }
+}
