@@ -1,6 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
-    "group": "ctdblocks:black_cobblestone",
+    "group": "ctdblocks:black_cobble",
     "pattern": [
         "SSS",
         "SBS",
@@ -11,7 +11,7 @@
         "B": [{"type": "forge:ore_dict", "ore": "dyeBlack"}]
     },
     "result": {
-        "item": "ctdblocks:black_cobblestone",
+        "item": "ctdblocks:black_cobble",
 		"count": 8
     }
 }

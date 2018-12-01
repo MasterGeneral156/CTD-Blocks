@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ctdblocks:steel_box",
+    "pattern": [
+        "NIN",
+        "ICI",
+		"NIN"
+    ],
+    "key": {
+		"C": [{"type": "forge:ore_dict", "ore": "chest"}],
+		"N": [{"type": "forge:ore_dict", "ore": "nuggetIron"}],
+        "I": [{"type": "forge:ore_dict", "ore": "ingotIron"}]
+    },
+    "result": {
+        "item": "ctdblocks:steel_box",
+		"count": 4
+    }
+}
