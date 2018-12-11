@@ -8,7 +8,7 @@
     ],
     "key": {
 		"S": [{"type": "forge:ore_dict", "ore": "ingotIron"}],
-        "P": [{"type": "forge:ore_dict", "ore": "dustGlowstone"}]
+        "P": [{"type": "forge:ore_dict", "ore": "dustGlowstonetm"}]
     },
     "result": {
         "item": "ctdblocks:industrial_lamp",
