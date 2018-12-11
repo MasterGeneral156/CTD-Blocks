@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ctdblocks:rustic_hatch",
+    "pattern": [
+        "ITI",
+        "ICI",
+		"III"
+    ],
+    "key": {
+		"C": [{"type": "forge:ore_dict", "ore": "chest"}],
+		"T": { "item": "minecraft:iron_trapdoor" },
+        "I": [{"type": "forge:ore_dict", "ore": "ingotIron"}]
+    },
+    "result": {
+        "item": "ctdblocks:rustic_hatch",
+		"count": 2
+    }
+}

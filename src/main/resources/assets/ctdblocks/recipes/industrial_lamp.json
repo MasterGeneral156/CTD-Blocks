@@ -3,7 +3,7 @@
     "group": "ctdblocks:industrial_lamp",
     "pattern": [
         "SPS",
-        "P S",
+        "P P",
 		"SPS"
     ],
     "key": {
